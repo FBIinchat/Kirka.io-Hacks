@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Av1 kirka speed hack
+// @name         kirka speed hack
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  press 1 to run cheat
-// @author       You
+// @author       FBIinchat
 // @match        *://kirka.io/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
